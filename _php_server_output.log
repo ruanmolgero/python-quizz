@@ -1,0 +1,10 @@
+[Tue Mar 25 14:10:10 2025] PHP 8.3.6 Development Server (http://127.0.0.1:8080) started
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56004 Accepted
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56004 [200]: GET /DOM.html
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56004 Closing
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56006 Accepted
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56006 [200]: GET /style.css
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56006 Closing
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56012 Accepted
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56012 [200]: GET /images/python-logo.png
+[Tue Mar 25 14:10:11 2025] 127.0.0.1:56012 Closing
